@@ -1,0 +1,50 @@
+Region,Gender,Age,Were you affected by Covid-19?,"If yes, then during which wave?","If you were asymptomatic (without any symptoms) , how did you learn about positivity?",How many days were you in isolation?,Did you have running nose (Rhinorrhea) ?,Did you face any breathing problem?,Did you have sore throat (Odynophagia) ?,Did you have fever?,Did you have dry cough?,Did you lose sense of taste or smell?,Were your eyes red or irritated?,Did you suffer from headache?,Did you suffer from body ache?,Did you lose ability of speech or mobility?,Did you suffer from diarrhoea?,Are you a patient of Asthma?,Are you a patient of Heart Disease (Cardo Vascular Disease)?,Are you a patient of Diabetes?,Are you a patient of Hyper Tension?,Are you a patient of Fatigue?,Were you vaccinated (before infection)?,Any side effects after recovery?,Any other symptoms (other than the ones mentioned above) that you faced during infection?,severity
+southern,M,64,YES,1,precautionary test,10,NO,NO,NO,YES,YES,NO,NO,YES,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,
+eastern,M,38,NO,,,,,,,,,,,,,,,,,,,,,,,
+western,M,42,YES,1,precautionary test,13,NO,NO,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES,mild
+northern,F,62,YES,3,family member tested positive,14,YES,NO,YES,YES,YES,YES,NO,NO,YES,YES,YES,NO,NO,YES,NO,YES,NO,NO,NO,
+southern,M,63,YES,1,precautionary test,10,NO,NO,NO,YES,YES,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,
+northern,M,69,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,M,20,YES,3,precautionary test,5,NO,NO,YES,YES,YES,NO,YES,YES,NO,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES,mild
+western,M,37,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,M,22,YES,2,family member tested positive,6,YES,YES,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,YES,YES,YES,YES,NO,NO,YES,high
+northern,M,21,YES,2,precautionary test,13,NO,NO,YES,YES,YES,NO,NO,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,YES,YES,mild
+southern,F,26,YES,1,family member tested positive,10,YES,YES,YES,NO,YES,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,NO,YES,medium
+southern,M,37,YES,1,precautionary test,9,NO,YES,NO,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,YES,NO,YES,NO,NO,YES,medium
+western,F,30,NO,,,,,,,,,,,,,,,,,,,,,,,
+western,M,43,YES,2,family member tested positive,12,YES,YES,NO,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,NO,NO,NO,YES,mild
+eastern,M,67,YES,3,family member tested positive,7,NO,YES,NO,YES,NO,NO,NO,YES,YES,NO,NO,YES,NO,YES,NO,YES,YES,NO,YES,mild
+western,M,36,YES,1,precautionary test,13,NO,NO,NO,YES,NO,YES,NO,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,YES,YES,high
+western,F,69,YES,2,precautionary test,5,YES,NO,NO,NO,YES,YES,NO,NO,YES,YES,YES,YES,NO,NO,YES,NO,YES,NO,NO,
+northern,M,64,YES,1,family member tested positive,7,NO,YES,YES,YES,YES,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,YES,NO,
+eastern,M,45,YES,2,family member tested positive,8,NO,YES,NO,NO,NO,YES,NO,YES,YES,NO,YES,YES,NO,NO,NO,YES,YES,NO,YES,medium
+eastern,M,50,YES,1,family member tested positive,9,YES,YES,YES,NO,NO,YES,NO,NO,NO,YES,YES,NO,YES,NO,NO,YES,YES,YES,YES,medium
+western,M,56,YES,2,family member tested positive,10,NO,YES,YES,YES,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES,NO,YES,YES,YES,NO,
+western,F,59,NO,,,,,,,,,,,,,,,,,,,,,,,
+eastern,F,20,NO,,,,,,,,,,,,,,,,,,,,,,,
+eastern,F,35,YES,1,precautionary test,14,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,YES,YES,NO,
+western,F,49,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,F,73,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,F,21,YES,2,family member tested positive,3,YES,YES,NO,YES,YES,YES,YES,YES,NO,NO,YES,NO,YES,NO,YES,NO,NO,NO,YES,medium
+southern,F,52,YES,1,precautionary test,4,NO,NO,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES,NO,NO,NO,YES,YES,YES,NO,
+southern,F,51,NO,,,,,,,,,,,,,,,,,,,,,,,
+eastern,F,29,NO,,,,,,,,,,,,,,,,,,,,,,,
+northern,M,41,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,M,41,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,M,57,YES,1,precautionary test,2,YES,YES,NO,YES,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES,YES,NO,YES,YES,NO,
+western,F,67,YES,2,precautionary test,1,NO,YES,NO,YES,NO,YES,NO,NO,NO,NO,NO,YES,YES,YES,NO,YES,NO,YES,NO,
+western,F,30,YES,1,precautionary test,7,YES,NO,NO,YES,NO,YES,NO,NO,NO,YES,YES,NO,YES,NO,YES,YES,YES,YES,NO,
+western,M,34,YES,1,precautionary test,5,YES,NO,NO,YES,NO,NO,YES,YES,NO,YES,YES,NO,YES,YES,YES,NO,YES,NO,YES,mild
+eastern,M,32,NO,,,,,,,,,,,,,,,,,,,,,,,
+western,M,38,NO,,,,,,,,,,,,,,,,,,,,,,,
+northern,F,63,YES,2,precautionary test,11,NO,YES,YES,NO,YES,YES,NO,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,YES,high
+northern,M,42,NO,,,,,,,,,,,,,,,,,,,,,,,
+eastern,M,22,NO,,,,,,,,,,,,,,,,,,,,,,,
+western,M,44,NO,,,,,,,,,,,,,,,,,,,,,,,
+northern,F,42,YES,3,precautionary test,10,YES,NO,YES,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,NO,YES,NO,YES,mild
+eastern,M,23,NO,,,,,,,,,,,,,,,,,,,,,,,
+northern,F,42,NO,,,,,,,,,,,,,,,,,,,,,,,
+western,F,54,NO,,,,,,,,,,,,,,,,,,,,,,,
+southern,M,41,YES,2,precautionary test,6,YES,YES,NO,YES,NO,NO,YES,YES,YES,YES,NO,YES,YES,YES,YES,YES,YES,NO,YES,medium
+eastern,F,54,YES,1,family member tested positive,5,YES,NO,NO,YES,NO,YES,YES,NO,YES,YES,YES,NO,NO,YES,YES,YES,NO,NO,YES,medium
+northern,M,66,YES,1,precautionary test,2,YES,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,YES,YES,YES,YES,YES,NO,
